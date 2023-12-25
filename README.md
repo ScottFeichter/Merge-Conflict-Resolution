@@ -1,6 +1,3 @@
-
-
-# first-branch second try
-
+# Merge-conflict-resolution
 
 Part 4 Prep Work
